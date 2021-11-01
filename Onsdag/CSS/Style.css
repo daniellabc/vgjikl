@@ -1,0 +1,67 @@
+body{
+    background-color: dimgray;
+    
+
+}
+
+.div_box1{
+    width: 200px;
+    height: 200px;
+    background-color: darkolivegreen;
+
+}
+
+#div_box2{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(34, 66, 70);
+
+}
+
+.div_box3{
+    width: 200px;
+    height: 200px;
+    background-color: #98e70f !important;
+    background-color: hotpink;
+
+}
+
+.div_box4{
+    width: 200px;
+    height: 200px;
+    background-color: darkolivegreen !important;
+    background-color: peru;
+
+
+}
+
+.div_box5{
+    width: 200px;
+    height: 200px;
+    background-color: darkolivegreen !important;
+    background-color: peru;
+    color: purple;
+    font-size: 10px;
+
+
+
+}
+
+.div_text5{
+    color: salmon;
+}
+
+#div_text5b{
+    color:blue;
+    font-size: 25px;
+}
+
+.div_box6, .div_box7{
+    width: 250px;
+    height: 250px;
+    background-color:cadetblue;
+
+}
+
+
+/*!important overstyrer #id som overstyrer .class*/

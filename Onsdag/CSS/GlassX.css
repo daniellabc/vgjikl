@@ -1,0 +1,24 @@
+@font-face {
+    font-family: sansation;
+    src: url(./Fonts/sansation/Sansation_Light.ttf);
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color:#350905;
+    font-family: sansation;
+    text-transform: uppercase;
+    color: #BC7D54;
+}
+h1{
+    font-family: sansation;
+    color: FFFFFFF;
+    text-align: right;
+    font-weight: 300;
+    font-size: 35px;
+    font-style: normal;
+    padding-top: 100px;
+}

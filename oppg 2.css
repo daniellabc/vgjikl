@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+h1{
+    background-color:rgb(235, 221, 228) ;
+    color: rgb(234, 111, 158);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: lighter
+    
+    
+
+
+    
+
+}
+body{
+    background-color: rgba(214, 147, 175, 0.548);
+    color: rgb(0, 0, 0);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}

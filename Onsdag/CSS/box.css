@@ -1,0 +1,120 @@
+.div_box7 {
+    background-color: rgb(97, 88, 95);
+    overflow: hidden;
+    margin: 20px;
+    text-align: center;
+    width: 100%; 
+    height: 40px;
+    position:sticky;
+    top: 20px;
+    z-index: 100;
+  }
+
+ /* Style the links inside the navigation bar */
+  .div_box7 a {
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-decoration:none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .div_box7 a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .div_box7 a.active {
+    background-color:rgb(51, 120, 133);
+    color: white;
+}
+
+.div_box1{
+background-color: lightslategray;
+width: 200px;
+height: 200px;
+}
+
+.div_box2{
+background-color: olive;
+width: 200px;
+height: 200px;
+position: sticky;
+top: 30px;
+left: 100px;
+}
+
+.div_box3{
+background-color: sienna;
+width: 200px;
+height: 200px;
+position:relative;
+top: 50px;
+left: 40px;
+z-index: 1; /*Høyeste verdi havner øverst, laveste verdi havner bak*/
+}
+
+.div_box4{
+background-color: plum;
+width: 200px;
+height: 200px;
+position: fixed;
+top: 80px;
+}
+
+.div_box5{
+    background-color:purple;
+    width: 200px;
+    height: 200px;
+    }
+    
+    .div_box6{
+    background-color:tomato;
+    width: 200px;
+    height: 200px;
+    }
+
+    
+        .div_box7 {
+            background-color: rgb(97, 88, 95);
+            overflow: hidden;
+            margin: 20px;
+            text-align: center;
+            width: 100%; 
+            height: 40px;
+            position:sticky;
+            top: 20px;
+          }
+        
+         /* Style the links inside the navigation bar */
+          .div_box7 a {
+            color: #f2f2f2;
+            padding: 14px 16px;
+            text-decoration:none;
+            font-size: 17px;
+          }
+          
+          /* Change the color of links on hover */
+          .div_box7 a:hover {
+            background-color: #ddd;
+            color: black;
+          }
+          
+          /* Add a color to the active/current link */
+          .div_box7 a.active {
+            background-color:rgb(51, 120, 133);
+            color: white;
+    }
+
+    .div_box5{
+        background-color:purple;
+        width: 200px;
+        height: 200px;
+        }
+        
+        .div_box6{
+        background-color:tomato;
+        width: 200px;
+        height: 200px;
+        }

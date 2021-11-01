@@ -1,0 +1,13 @@
+.div_box2{
+    text-align: right;
+}
+
+.div_box2 a{
+    color: #BC7D54;
+    text-decoration: none;
+
+}
+.div_box2 a:hover {
+    background-color: #ddd;
+    color: black;
+}

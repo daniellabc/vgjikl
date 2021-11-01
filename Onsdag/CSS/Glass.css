@@ -1,0 +1,183 @@
+@font-face {
+  font-family: sansation;
+  src: url(./Fonts/sansation/Sansation_Light.ttf);
+}
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+body {
+  background-color: #350905;
+  font-family: sansation;
+  text-transform: uppercase;
+  color: #bc7d54;
+}
+h1 {
+  font-family: sansation;
+  color: #ddd;
+  text-align: right;
+  font-weight: 300;
+  font-size: 50px;
+  font-style: normal;
+  padding-top: 100px;
+  padding-right: 50px;
+}
+#divbox1 {
+  text-align: right;
+}
+#divbox1 li {
+  display: inline-block;
+  color: #bc7d54;
+  list-style-type: none;
+  margin: 10px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 35px;
+}
+#divbox1 li:hover {
+  background-color: #ddd;
+  color: #000000;
+}
+
+#divbox2 li {
+  display: inline-block;
+  color: #bc7d54;
+  list-style-type: none;
+  margin: 10px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 35px;
+}
+#divbox2 li:hover {
+  background-color: #ddd;
+  color: #000000;
+}
+#divboxA {
+  text-align: right;
+}
+#divboxA li {
+  display: inline-block;
+  color: #bc7d54;
+  list-style-type: none;
+  margin: 46px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 40px;
+  line-height: 35px;
+}
+#divboxA li:hover {
+  background-color: #ddd;
+  color: #000000;
+}
+
+#divboxB {
+  text-align: right;
+}
+#divboxB li {
+  display: inline-block;
+  color: #bc7d54;
+  list-style-type: none;
+  margin: 30px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 40px;
+  line-height: 35px;
+}
+#divboxB li:hover {
+  background-color: #ddd;
+  color: #000000;
+}
+
+#divboxA li:hover {
+  background-color: #ddd;
+  color: #000000;
+}
+
+#divboxC {
+  text-align: right;
+}
+#divboxC li {
+  display: inline-block;
+  color: #bc7d54;
+  list-style-type: none;
+  margin: 50px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 40px;
+  line-height: 35px;
+}
+#divboxC li:hover {
+  background-color: #ddd;
+  color: #000000;
+}
+
+.div_box3 {
+  text-align: center;
+}
+.div_box3 a {
+  color: #ddd;
+  text-decoration: none;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 35px;
+}
+.div_box3 a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.div_box4 {
+  width: 100%;
+  margin: 30px auto;
+}
+
+img {
+  width: 100%;
+}
+
+.menu_container {
+  width: 100%;
+  text-align: center;
+}
+
+.container-left {
+  width: 30%;
+  float: left;
+  text-align: left;
+  padding-left: 20%;
+}
+
+.container-left li:hover {
+  background-color: #ddd;
+  color: #000000;
+}
+
+.container-right {
+  width: 30%;
+  float: right;
+  text-align: right;
+  padding-right: 20%;
+}
+
+.container-right li:hover {
+  background-color: #ddd;
+  color: #000000;
+}
+a {
+  color: #bc7d54;
+  font-size: 45px;
+  text-decoration: none;
+}
+
+li {
+  padding: 10px 40px;
+}
+
+ul {
+  list-style: none;
+}
+
+
